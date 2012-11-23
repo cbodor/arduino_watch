@@ -36,7 +36,7 @@ void idle(void);
 
  */
 
-#define VERSION "4.41"
+#define VERSION "4.42"
 
 
 #include <uOLED.h>
